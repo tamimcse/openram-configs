@@ -1,9 +1,12 @@
-#python3 $OPENRAM_HOME/openram.py  sail/N16
-#python3 $OPENRAM_HOME/openram.py  sail/C16
-#python3 $OPENRAM_HOME/openram.py  sail/N24
-#python3 $OPENRAM_HOME/openram.py  sail/C24
-#python3 $OPENRAM_HOME/openram.py  sail/N32
-#python3 $OPENRAM_HOME/openram.py  sail/C32
+#
+#------------------SAIL--------------------------
+#
+python3 $OPENRAM_HOME/openram.py  sail/N16
+python3 $OPENRAM_HOME/openram.py  sail/C16
+python3 $OPENRAM_HOME/openram.py  sail/N24
+python3 $OPENRAM_HOME/openram.py  sail/C24
+python3 $OPENRAM_HOME/openram.py  sail/N32
+python3 $OPENRAM_HOME/openram.py  sail/C32
 #
 #------------------Poptrie--------------------------
 #
@@ -18,5 +21,13 @@ python3 $OPENRAM_HOME/openram.py  poptrie/B46
 python3 $OPENRAM_HOME/openram.py  poptrie/B52
 python3 $OPENRAM_HOME/openram.py  poptrie/B58
 python3 $OPENRAM_HOME/openram.py  poptrie/B64
-
-
+#
+#------------------CP-Trie--------------------------
+#
+python3 $OPENRAM_HOME/openram.py  cp-trie/B16
+python3 $OPENRAM_HOME/openram.py  cp-trie/B24
+python3 $OPENRAM_HOME/openram.py  cp-trie/B32
+python3 $OPENRAM_HOME/openram.py  cp-trie/B40
+python3 $OPENRAM_HOME/openram.py  cp-trie/B48
+python3 $OPENRAM_HOME/openram.py  cp-trie/B56
+python3 $OPENRAM_HOME/openram.py  cp-trie/B64
