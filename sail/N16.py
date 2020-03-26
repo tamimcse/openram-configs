@@ -1,9 +1,9 @@
 # Data word size
-word_size = 96
+word_size = 8
 # Number of words in the memory
 num_words = 2048
 num_rw_ports = 1
-num_banks = 22
+num_banks = 32
 
 # Technology to use in $OPENRAM_TECH
 tech_name = "freepdk45"
