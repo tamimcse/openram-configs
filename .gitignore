@@ -4,3 +4,5 @@
 *.lef
 *.sp
 *.v
+__pycache__
+
