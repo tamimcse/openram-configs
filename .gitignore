@@ -1,0 +1,6 @@
+*.gds
+*.log
+*.lib
+*.lef
+*.sp
+*.v
