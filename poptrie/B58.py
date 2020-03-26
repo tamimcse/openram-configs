@@ -18,7 +18,7 @@ nominal_corner_only = True
 # temperatures = [ 0, 25 100]
 
 # Output directory for the results
-output_path = "poptrie-B58"
+output_path = "out/poptrie/B58"
 # Output file base name
 output_name = "sram_{0}_{1}_{2}".format(word_size,num_words,tech_name)
 
