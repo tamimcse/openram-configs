@@ -1,8 +1,2 @@
-*.gds
-*.log
-*.lib
-*.lef
-*.sp
-*.v
 __pycache__
 
