@@ -1,9 +1,9 @@
 # Data word size
 word_size = 192
 # Number of words in the memory
-num_words = 40
+num_words = 2048
 num_rw_ports = 1
-num_banks = 1
+num_banks = 8
 
 # Technology to use in $OPENRAM_TECH
 tech_name = "freepdk45"
@@ -18,7 +18,7 @@ nominal_corner_only = True
 # temperatures = [ 0, 25 100]
 
 # Output directory for the results
-output_path = "poptrie-B16"
+output_path = "poptrie-B28"
 # Output file base name
 output_name = "sram_{0}_{1}_{2}".format(word_size,num_words,tech_name)
 
